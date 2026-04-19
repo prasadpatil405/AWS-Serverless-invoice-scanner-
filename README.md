@@ -3,7 +3,7 @@
 A powerful, full-stack serverless application that utilizes AWS Textract to automatically scan, analyze, and extract data from invoices.
 
 ## 🔗 Live Demo
-**Frontend**: [https://aws-serverless-invoice-scanner.vercel.app/](https://aws-serverless-invoice-scanner.vercel.app/)
+**Frontend**: [https://aws-serverless-invoice-scanner.vercel.app/](https://aws-serverless-invoice-scanner.vercel.app/login)
 
 ## ✨ Features
 - **Modern UI**: Sleek, glassmorphism design built with Next.js 15.
