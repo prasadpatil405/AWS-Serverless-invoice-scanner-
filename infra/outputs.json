@@ -1,0 +1,7 @@
+{
+  "InfraStack": {
+    "InvoiceScannerApiEndpoint353C0FE4": "https://l3v67o9aa0.execute-api.ap-south-1.amazonaws.com/prod/",
+    "BucketName": "infrastack-invoicelandingbucketfa4429e3-oao2en2xxcjy",
+    "ApiUrl": "https://l3v67o9aa0.execute-api.ap-south-1.amazonaws.com/prod/"
+  }
+}
